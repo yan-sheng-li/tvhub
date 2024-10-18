@@ -8,4 +8,7 @@
 - TVBox
 - 小苹果影视盒子
 - 喵影视
-- 我的电视
+- [我的电视](https://github.com/yaoxieyoulei/mytv-android)
+
+## 可用源
+- http://cdn.qiaoji8.com/tvbox.json
