@@ -13,3 +13,6 @@
 
 ## 可用源
 - http://cdn.qiaoji8.com/tvbox.json
+
+## 自测直播源（长期维护）
+- https://www.liyansheng.top/TvBox-solution/demo.txt
