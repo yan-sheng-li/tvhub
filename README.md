@@ -13,6 +13,7 @@
 
 ## 可用源
 - http://cdn.qiaoji8.com/tvbox.json
+- https://live.kilvn.com/
 
 ## 自测直播源（长期维护）
 - https://www.liyansheng.top/tvhub/tv.txt
