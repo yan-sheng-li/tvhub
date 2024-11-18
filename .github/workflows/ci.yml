@@ -23,7 +23,7 @@ jobs:
           node-version: '14'
           
       - name: show node version
-        run: node -V
+        run: node -v
         
       - name: show npm version
-        run: npm -V
+        run: npm -v
