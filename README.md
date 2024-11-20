@@ -15,6 +15,8 @@
 - http://cdn.qiaoji8.com/tvbox.json
 - https://live.kilvn.com/
 - https://github.com/fanmingming/live
+- https://github.com/vbskycn/iptv
 
 ## 自测直播源（长期维护）
 - https://www.liyansheng.top/tvhub/tv.txt
+- https://live.zbds.top/tv/iptv4.txt
