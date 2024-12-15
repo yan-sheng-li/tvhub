@@ -1,2 +1,2 @@
 电影,#genre#
-志愿者：存亡之战,http://43.248.129.14:20240/?url=https://vip.ffzy-video.com/20241213/8363_e6ed5dac/index.m3u8
+志愿者：存亡之战,https://vip.ffzy-video.com/20241213/8363_e6ed5dac/index.m3u8
