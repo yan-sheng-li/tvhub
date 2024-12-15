@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HLS Player</title>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+
+<body>
+    <div style="text-align: center;">
+        <h1>HLS Player</h1>
+        <input type="text" id="videoUrl" placeholder="Enter video URL" style="width: 400px; padding: 10px;">
+        <button onclick="playVideo()">Play</button>
+        <br>
+        <video id="videoPlayer" controls width="600" height="400"></video>
+    </div>
+
+    <script>
+        const video = document.getElementById('videoPlayer');
+        let hls;
+
+        function playVideo() {
+            const m3u8Url = document.getElementById('videoUrl').value;
+
+            if (Hls.isSupported()) {
+                if (hls) {
+                    hls.destroy();
+                }
+                hls = new Hls();
+                hls.loadSource(m3u8Url);
+                hls.attachMedia(video);
+            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                video.src = m3u8Url;
+            } else {
+                alert('HLS is not supported in this browser.');
+            }
+
+            video.play();
+        }
+    </script>
+</body>
+
+</html>
