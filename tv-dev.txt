@@ -1,3 +1,5 @@
 电影,#genre#
 志愿者：存亡之战,https://vip.ffzy-video.com/20241213/8363_e6ed5dac/index.m3u8
 英雄连2020,https://vip.lz-cdn1.com/20220510/5208_ddb14890/index.m3u8
+志愿者：存亡之战2,https://vip.ffzy-video.com/20241213/8363_e6ed5dac/index.m3u8
+英雄连2020-2,https://vip.lz-cdn1.com/20220510/5208_ddb14890/index.m3u8
