@@ -1,9 +1,6 @@
-电影,#genre#
+自定义频道,#genre#
 志愿者：存亡之战,https://vip.ffzy-video.com/20241213/8363_e6ed5dac/index.m3u8
 英雄连2020,https://vip.lz-cdn1.com/20220510/5208_ddb14890/index.m3u8
-志愿者：存亡之战2,https://vip.ffzy-video.com/20241213/8363_e6ed5dac/index.m3u8
-英雄连2020-2,https://vip.lz-cdn1.com/20220510/5208_ddb14890/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVbqkj.png",CCTV-兵器科技
-http://111.61.236.247:9081/hls/61/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/风云足球.png",CCTV-风云足球
-http://111.61.236.247:9081/hls/58/index.m3u8
+CCTV-兵器科技,http://111.61.236.247:9081/hls/61/index.m3u8
+CCTV-风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
+女人的抗战,https://dow.dowlz3.com/20220716/34687_a02b16a2/女人的抗战 40-普通话_超清.mp4
