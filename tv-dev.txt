@@ -4,4 +4,4 @@ CCTV1,http://111.160.17.2:59901/tsfile/live/0001_1.m3u8
 
 亮剑,#genre#
 1,https://vip.ffzy-play1.com/20230113/51806_72d20784/index.m3u8
-1,https://vip.ffzy-play1.com/20230113/51806_72d20784/index.m3u8|qiaoji
+2,https://vip.ffzy-play1.com/20230113/51806_72d20784/index.m3u8|qiaoji
