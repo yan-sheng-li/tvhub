@@ -1,9 +1,7 @@
-央视频道,#genre#
-CCTV1,http://112.102.217.173:9003//hls/13/index.m3u8
-CCTV1,http://111.160.17.2:59901/tsfile/live/0001_1.m3u8
+牛歌戏,#genre#
+二上花洲上,http://liyansheng.top/hls/二上花洲上.m3u8
 
 亮剑,#genre#
 1,https://vip.ffzy-play1.com/20230113/51806_72d20784/index.m3u8
 士兵突击,https://vip.ffzy-play10.com/20230104/6206_4541ae92/index.m3u8
-电影,#genre#
-血战湘江,https://vip.ffzy-play7.com/20221104/1453_a28a0536/index.m3u8
+
