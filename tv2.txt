@@ -3,7 +3,8 @@
 黑白有界,https://dow.dowlz19.com/20241105/28696_af56b196/黑白有界.mp4
 
 牛歌戏,#genre#
-骑行游记,http://liyansheng.top/hls/demo.m3u8
+测试1,http://liyansheng.top/hls/demo.m3u8
+测试2,https://www.liyansheng.top/hls/demo.m3u8
 
 
 
