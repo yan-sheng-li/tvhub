@@ -1,10 +1,6 @@
-电影,#genre#
-猎毒行动：终极对决,https://dow.dowlz17.com/20241115/2419_c60f9875/猎毒行动：终极对决 (2024).mp4
-黑白有界,https://dow.dowlz19.com/20241105/28696_af56b196/黑白有界.mp4
-
-牛歌戏,#genre#
+自定义节目,#genre#
 测试1,http://liyansheng.top/hls/demo.m3u8
-测试2,https://www.liyansheng.top/hls/demo.m3u8
+测试2,http://liyansheng.top/hls/demo2.m3u8
 
 
 
