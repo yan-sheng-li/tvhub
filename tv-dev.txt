@@ -1,4 +1,5 @@
 牛歌戏,#genre#
+三喜临门1,http://liyansheng.top/hls/三喜临门_1.m3u8
 二上花洲上,http://liyansheng.top/hls/二上花洲上.m3u8
 二上花洲下,http://liyansheng.top/hls/二上花洲下.m3u8
 
