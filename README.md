@@ -21,6 +21,9 @@
 - https://www.liyansheng.top/tvhub/tv.txt
 - https://live.zbds.top/tv/iptv4.txt
 
+## 个人专线
+https://www.liyansheng.top/tvhub/木子专线.json
+
 ## 自定义直播源，文件类型`txt`
 文件格式如下:
 ```text
