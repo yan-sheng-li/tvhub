@@ -1,5 +1,5 @@
 {
-  "wallpaper": "https://bing.img.run/uhd.php",
+  "wallpaper": "https://wp.upx8.com/api.php",
   "lives": [
     {
       "group": "redirect",
@@ -16,7 +16,7 @@
   "sites": [
     {
       "key": "天天",
-      "name": "天天(不能用就点我换源或者搜索)",
+      "name": "天天",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
