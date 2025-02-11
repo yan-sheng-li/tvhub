@@ -17,7 +17,7 @@
   "sites": [
     {
       "key": "天天",
-      "name": "天天(不能用就点我换源或者搜索)",
+      "name": "天天",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
