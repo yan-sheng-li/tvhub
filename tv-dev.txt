@@ -1,15 +1,15 @@
-牛歌戏,#genre#
+自定义节目,#genre#
 浪子梦_1,http://liyansheng.top/hls/浪子梦_1.mp4
 浪子梦_2,http://liyansheng.top/hls/浪子梦_2.mp4
 浪子梦_3,http://liyansheng.top/hls/浪子梦_3.mp4
 浪子梦_4,http://liyansheng.top/hls/浪子梦_4.mp4
 浪子梦_5,http://liyansheng.top/hls/浪子梦_5.mp4
 浪子梦_6,http://liyansheng.top/hls/浪子梦_6.mp4
-
-亮剑,#genre#
 亮剑_8,https://vip.ffzy-play1.com/20230113/51813_6979dace/index.m3u8
+苏英记_1,http://liyansheng.top/hls/苏英记_1.mp4
+苏英记_2,http://liyansheng.top/hls/苏英记_2.mp4
 亮剑_9,https://vip.ffzy-play1.com/20230113/51814_3a76dcf1/index.m3u8
-亮剑_10,https://vip.ffzy-play1.com/20230113/51812_5d88f883/index.m3u8
-亮剑_11,https://vip.ffzy-play1.com/20230113/51815_d5911146/index.m3u8
+三雁追飘玲1,http://liyansheng.top/hls/三雁追飘玲1.mp4
+三雁追飘玲2,http://liyansheng.top/hls/三雁追飘玲2.mp4
 
 
