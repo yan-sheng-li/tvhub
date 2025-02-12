@@ -11,5 +11,9 @@
 亮剑_9,https://vip.ffzy-play1.com/20230113/51814_3a76dcf1/index.m3u8
 三雁追飘玲1,http://liyansheng.top/hls/三雁追飘玲1.mp4
 三雁追飘玲2,http://liyansheng.top/hls/三雁追飘玲2.mp4
+光荣与梦想2,https://vip.ffzy-online.com/20221023/2424_7fadaabc/index.m3u8
+光荣与梦想3,https://vip.ffzy-online.com/20221023/2425_917e7a85/index.m3u8
+电影-血战湘江,https://vip.ffzy-play7.com/20221104/1453_a28a0536/index.m3u8
+电影-建军大业,https://vip.ffzy-play6.com/20221105/4332_3fcc86e5/index.m3u8
 
 
