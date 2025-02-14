@@ -37,9 +37,15 @@
 苏英记_2,http://liyansheng.top/hls/苏英记_2.mp4
 三雁追飘玲1,http://liyansheng.top/hls/三雁追飘玲1.mp4
 三雁追飘玲2,http://liyansheng.top/hls/三雁追飘玲2.mp4
+午夜盗尸1,http://liyansheng.top/hls/午夜盗尸1.mp4
+午夜盗尸2,http://liyansheng.top/hls/午夜盗尸2.mp4
+硃砂痣1,http://liyansheng.top/hls/硃砂痣1.mp4
+硃砂痣2,http://liyansheng.top/hls/硃砂痣2.mp4
+硃砂痣3,http://liyansheng.top/hls/硃砂痣3.mp4
 
 电影,#genre#
-
+血战湘江,https://vip.ffzy-play7.com/20221104/1453_a28a0536/index.m3u8
+建军大业,https://vip.ffzy-play6.com/20221105/4332_3fcc86e5/index.m3u8
 
 亮剑,#genre#
 亮剑_1,https://vip.ffzy-play1.com/20230113/51806_72d20784/index.m3u8
@@ -78,5 +84,3 @@
 光荣与梦想3,https://vip.ffzy-online.com/20221023/2425_917e7a85/index.m3u8
 
 
-血战湘江,https://vip.ffzy-play7.com/20221104/1453_a28a0536/index.m3u8
-建军大业,https://vip.ffzy-play6.com/20221105/4332_3fcc86e5/index.m3u8
