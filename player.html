@@ -10,11 +10,19 @@
 
 <body>
     <div style="text-align: center;">
-        <h1>HLS Player</h1>
+        <h1>Video Player</h1>
+        <h3>支持.m3u8 文件与.mp4 文件</h3>
         <input type="text" id="videoUrl" placeholder="Enter video URL" style="width: 400px; padding: 10px;">
-        <button onclick="playVideo()">Play</button>
+        <button onclick="playVideo()">播放</button>
         <br>
         <video id="videoPlayer" controls width="600" height="400"></video>
+        <div>
+            <p>示例：</p>
+            <ul>
+                <li>http://liyansheng.top/hls/紫盒金杯_1.m3u8</li>
+                <li>http://liyansheng.top/hls/苏英记_1.mp4</li>
+            </ul>
+        </div>
     </div>
 
     <script>
@@ -22,22 +30,33 @@
         let hls;
 
         function playVideo() {
-            const m3u8Url = document.getElementById('videoUrl').value;
+            const videoUrl = document.getElementById('videoUrl').value;
 
-            if (Hls.isSupported()) {
-                if (hls) {
-                    hls.destroy();
+            // 判断视频是否为 .m3u8 格式
+            if (videoUrl.endsWith('.m3u8')) {
+                // 使用 HLS.js 播放 .m3u8 文件
+                if (Hls.isSupported()) {
+                    if (hls) {
+                        hls.destroy();  // 销毁旧的 HLS 实例
+                    }
+                    hls = new Hls();
+                    hls.loadSource(videoUrl);
+                    hls.attachMedia(video);
+                    video.play();
+                } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                    // Safari 浏览器原生支持 HLS
+                    video.src = videoUrl;
+                    video.play();
+                } else {
+                    alert('HLS is not supported in this browser.');
                 }
-                hls = new Hls();
-                hls.loadSource(m3u8Url);
-                hls.attachMedia(video);
-            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-                video.src = m3u8Url;
+            } else if (videoUrl.endsWith('.mp4')) {
+                // 直接播放 .mp4 文件
+                video.src = videoUrl;
+                video.play();
             } else {
-                alert('HLS is not supported in this browser.');
+                alert('Unsupported video format. Please enter a valid URL.');
             }
-
-            video.play();
         }
     </script>
 </body>
