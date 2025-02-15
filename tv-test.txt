@@ -1,6 +1,5 @@
 经典牛歌戏,#genre#
 测试1,http://liyansheng.top/hls/demo.m3u8
-测试2,https://cn-gddg-ct-01-14.bilivideo.com/upgcxcode/48/41/500001634184148/500001634184148-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1739608056&gen=playurlv2&os=bcache&oi=236169839&trid=000010c2e125ccb44ff0b41c0f1b0f50cd01h&mid=473086718&platform=html5&og=cos&upsig=a629aab19cd406d98031f7682ef68bcd&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=61314&bvc=vod&nettype=0&f=h_0_0&bw=27693&logo=80000000
 二上花洲上,http://liyansheng.top/hls/二上花洲上.m3u8
 紫盒金杯_1,http://liyansheng.top/hls/紫盒金杯_1.m3u8
 紫盒金杯_2,http://liyansheng.top/hls/紫盒金杯_2.m3u8
