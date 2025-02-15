@@ -1,10 +1,10 @@
 经典牛歌戏,#genre#
 测试1,http://liyansheng.top/hls/demo.m3u8
+测试2,https://cn-gddg-ct-01-14.bilivideo.com/upgcxcode/48/41/500001634184148/500001634184148-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1739608056&gen=playurlv2&os=bcache&oi=236169839&trid=000010c2e125ccb44ff0b41c0f1b0f50cd01h&mid=473086718&platform=html5&og=cos&upsig=a629aab19cd406d98031f7682ef68bcd&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=61314&bvc=vod&nettype=0&f=h_0_0&bw=27693&logo=80000000
 二上花洲上,http://liyansheng.top/hls/二上花洲上.m3u8
 紫盒金杯_1,http://liyansheng.top/hls/紫盒金杯_1.m3u8
 紫盒金杯_2,http://liyansheng.top/hls/紫盒金杯_2.m3u8
 公主抢亲_1,http://liyansheng.top/hls/公主抢亲_1.mp4
-测试2-直链,https://upos-sz-mirror08c.bilivideo.com/upgcxcode/75/03/582150375/582150375-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1739183441&gen=playurlv2&os=08cbv&oi=236162000&trid=44617c5d2c814603bb330cee2e5c0e08h&mid=473086718&platform=html5&og=hw&upsig=9512929aace1a2c143af4a76fa3726bd&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&f=h_0_0&bw=50629&logo=80000000
 亮剑,#genre#
 亮剑_1,https://vip.ffzy-play1.com/20230113/51806_72d20784/index.m3u8
 亮剑_2,https://vip.ffzy-play1.com/20230113/51805_af533edb/index.m3u8
