@@ -5,10 +5,8 @@
 浪子梦_4,http://liyansheng.top/hls/浪子梦_4.mp4
 浪子梦_5,http://liyansheng.top/hls/浪子梦_5.mp4
 浪子梦_6,http://liyansheng.top/hls/浪子梦_6.mp4
-亮剑_8,https://vip.ffzy-play1.com/20230113/51813_6979dace/index.m3u8
 苏英记_1,http://liyansheng.top/hls/苏英记_1.mp4
 苏英记_2,http://liyansheng.top/hls/苏英记_2.mp4
-亮剑_9,https://vip.ffzy-play1.com/20230113/51814_3a76dcf1/index.m3u8
 三雁追飘玲1,http://liyansheng.top/hls/三雁追飘玲1.mp4
 三雁追飘玲2,http://liyansheng.top/hls/三雁追飘玲2.mp4
 硃砂痣1,http://liyansheng.top/hls/硃砂痣1.mp4
@@ -22,12 +20,8 @@
 三落状元帽4,http://liyansheng.top/hls/三落状元帽4.mp4
 三落状元帽5,http://liyansheng.top/hls/三落状元帽5.mp4
 三落状元帽6,http://liyansheng.top/hls/三落状元帽6.mp4
-亮剑_21,https://vip.ffzy-play1.com/20230113/51806_72d20784/index.m3u8
-亮剑_22,https://vip.ffzy-play1.com/20230113/51805_af533edb/index.m3u8
-亮剑_23,https://vip.ffzy-play1.com/20230113/51807_0da1f48c/index.m3u8
-光荣与梦想2,https://vip.ffzy-online.com/20221023/2424_7fadaabc/index.m3u8
-光荣与梦想3,https://vip.ffzy-online.com/20221023/2425_917e7a85/index.m3u8
-电影-血战湘江,https://vip.ffzy-play7.com/20221104/1453_a28a0536/index.m3u8
-电影-建军大业,https://vip.ffzy-play6.com/20221105/4332_3fcc86e5/index.m3u8
+三难方玉洁1,http://liyansheng.top/hls/三难方玉洁1.mp4  
+三难方玉洁2,http://liyansheng.top/hls/三难方玉洁2.mp4  
+三难方玉洁3,http://liyansheng.top/hls/三难方玉洁3.mp4  
 
 
