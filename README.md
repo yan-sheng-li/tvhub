@@ -1,13 +1,14 @@
 # 📺Tv
 电视机顶盒——解决方案汇总
 
-## 网页播放器 [点我](http://www.liyansheng.top/tvhub/player.html)
+
+## [M3U8 IPTV播放器](http://zqjy.info/)
 
 
 ## 可用直播软件
 - [TVBox](http://tvbox.clbug.com/)
-- [小苹果影视](http://xpgtv.com)
 - [我的电视](https://github.com/yaoxieyoulei/mytv-android)
+- [更多软件](http://www.xn--sss604efuw.com/)
 
 ## 可用源
 - http://cdn.qiaoji8.com/tvbox.json
