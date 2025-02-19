@@ -54,6 +54,11 @@
 杨六郎招亲1,http://liyansheng.top/hls/杨六郎招亲1.mp4  
 杨六郎招亲2,http://liyansheng.top/hls/杨六郎招亲2.mp4  
 杨六郎招亲3,http://liyansheng.top/hls/杨六郎招亲3.mp4  
+中秋会1,http://liyansheng.top/hls/中秋会/中秋会1.mp4
+中秋会2,http://liyansheng.top/hls/中秋会/中秋会2.mp4
+好事多磨1,http://liyansheng.top/hls/好事多磨/好事多磨1.mp4
+好事多磨2,http://liyansheng.top/hls/好事多磨/好事多磨2.mp4
+
 
 
 电影,#genre#
