@@ -1,14 +1,4 @@
 牛歌戏,#genre#
-二上花洲上,http://liyansheng.top/hls/二上花洲上.m3u8
-二上花洲下,http://liyansheng.top/hls/二上花洲下.m3u8
-紫盒金杯_1,http://liyansheng.top/hls/紫盒金杯_1.m3u8
-紫盒金杯_2,http://liyansheng.top/hls/紫盒金杯_2.m3u8
-紫盒金杯_3,http://liyansheng.top/hls/紫盒金杯_3.m3u8
-紫盒金杯_4,http://liyansheng.top/hls/紫盒金杯_4.m3u8
-紫盒金杯_5,http://liyansheng.top/hls/紫盒金杯_5.m3u8
-紫盒金杯_6,http://liyansheng.top/hls/紫盒金杯_6.m3u8
-紫盒金杯_7,http://liyansheng.top/hls/紫盒金杯_7.m3u8
-紫盒金杯_8,http://liyansheng.top/hls/紫盒金杯_8.m3u8
 公主抢亲_1,http://liyansheng.top/hls/公主抢亲_1.mp4
 公主抢亲_2,http://liyansheng.top/hls/公主抢亲_2.mp4
 公主抢亲_3,http://liyansheng.top/hls/公主抢亲_3.mp4
