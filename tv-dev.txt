@@ -1,4 +1,5 @@
 自定义节目,#genre#
+大决战纪录片,http://liyansheng.top/hls/dajuezhan/index.mp4
 6-1集,http://liyansheng.top/hls/liangjian/6-1.mp4
 6-2集,http://liyansheng.top/hls/liangjian/6-2.mp4
 6-3集,http://liyansheng.top/hls/liangjian/6-3.mp4
