@@ -1,8 +1,8 @@
 自定义节目,#genre#
-东方战场1，https://dow.dowlz10.com/20220826/10044_ec523aa6/%E4%B8%9C%E6%96%B9%E6%88%98%E5%9C%BA%20%E7%AC%AC01%E9%9B%86.mp4
-东方战场2，https://dow.dowlz10.com/20220826/10045_4407be02/%E4%B8%9C%E6%96%B9%E6%88%98%E5%9C%BA%20%E7%AC%AC02%E9%9B%86.mp4
-东方战场3，https://dow.dowlz10.com/20220826/10046_4ba1ccfe/%E4%B8%9C%E6%96%B9%E6%88%98%E5%9C%BA%20%E7%AC%AC03%E9%9B%86.mp4
-东方战场4，https://dow.dowlz10.com/20220826/10047_9f0b7e4e/%E4%B8%9C%E6%96%B9%E6%88%98%E5%9C%BA%20%E7%AC%AC04%E9%9B%86.mp4
+东方战场1,https://dow.dowlz10.com/20220826/10044_ec523aa6/%E4%B8%9C%E6%96%B9%E6%88%98%E5%9C%BA%20%E7%AC%AC01%E9%9B%86.mp4
+东方战场2,https://dow.dowlz10.com/20220826/10045_4407be02/%E4%B8%9C%E6%96%B9%E6%88%98%E5%9C%BA%20%E7%AC%AC02%E9%9B%86.mp4
+东方战场3,https://dow.dowlz10.com/20220826/10046_4ba1ccfe/%E4%B8%9C%E6%96%B9%E6%88%98%E5%9C%BA%20%E7%AC%AC03%E9%9B%86.mp4
+东方战场4,https://dow.dowlz10.com/20220826/10047_9f0b7e4e/%E4%B8%9C%E6%96%B9%E6%88%98%E5%9C%BA%20%E7%AC%AC04%E9%9B%86.mp4
 赵氏孤儿4,http://liyansheng.top/hls/赵氏孤儿/赵氏孤儿4.mp4
 赵氏孤儿5,http://liyansheng.top/hls/赵氏孤儿/赵氏孤儿5.mp4
 赵氏孤儿6,http://liyansheng.top/hls/赵氏孤儿/赵氏孤儿6.mp4
