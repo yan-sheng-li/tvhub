@@ -1,16 +1,11 @@
 自定义节目,#genre#
-1,http://liyansheng.top/hls/pd/1.mp4
-2,http://liyansheng.top/hls/pd/2.mp4
-3,http://liyansheng.top/hls/pd/3.mp4
-4,http://liyansheng.top/hls/pd/4.mp4
-5,http://liyansheng.top/hls/pd/5.mp4
-6,http://liyansheng.top/hls/pd/6.mp4
-三难方玉洁1,http://liyansheng.top/hls/三难方玉洁1.mp4  
-三难方玉洁2,http://liyansheng.top/hls/三难方玉洁2.mp4  
-三难方玉洁3,http://liyansheng.top/hls/三难方玉洁3.mp4  
-双飞凤_1,http://liyansheng.top/hls/双飞凤_1.mp4
-双飞凤_2,http://liyansheng.top/hls/双飞凤_2.mp4
-双飞凤_3,http://liyansheng.top/hls/双飞凤_3.mp4
+东方战场1，https://dow.dowlz10.com/20220826/10044_ec523aa6/东方战场 第01集.mp4
+东方战场2，https://dow.dowlz10.com/20220826/10045_4407be02/东方战场 第02集.mp4
+东方战场3，https://dow.dowlz10.com/20220826/10046_4ba1ccfe/东方战场 第03集.mp4
+东方战场4，https://dow.dowlz10.com/20220826/10047_9f0b7e4e/东方战场 第04集.mp4
+赵氏孤儿4,http://liyansheng.top/hls/赵氏孤儿/赵氏孤儿4.mp4
+赵氏孤儿5,http://liyansheng.top/hls/赵氏孤儿/赵氏孤儿5.mp4
+赵氏孤儿6,http://liyansheng.top/hls/赵氏孤儿/赵氏孤儿6.mp4
 双飞凤_4,http://liyansheng.top/hls/双飞凤_4.mp4
 双飞凤_5,http://liyansheng.top/hls/双飞凤_5.mp4
 双飞凤_6,http://liyansheng.top/hls/双飞凤_6.mp4
