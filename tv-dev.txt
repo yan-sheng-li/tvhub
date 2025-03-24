@@ -1,8 +1,10 @@
 自定义节目,#genre#
-东方战场1,http://liyansheng.top/online/10044_ec523aa6/%E4%B8%9C%E6%96%B9%E6%88%98%E5%9C%BA%20%E7%AC%AC01%E9%9B%86.mp4
-东方战场2,https://dow.dowlz10.com/20220826/10045_4407be02/%E4%B8%9C%E6%96%B9%E6%88%98%E5%9C%BA%20%E7%AC%AC02%E9%9B%86.mp4
-东方战场3,https://dow.dowlz10.com/20220826/10046_4ba1ccfe/%E4%B8%9C%E6%96%B9%E6%88%98%E5%9C%BA%20%E7%AC%AC03%E9%9B%86.mp4
-东方战场4,https://dow.dowlz10.com/20220826/10047_9f0b7e4e/%E4%B8%9C%E6%96%B9%E6%88%98%E5%9C%BA%20%E7%AC%AC04%E9%9B%86.mp4
-双飞凤_4,http://liyansheng.top/hls/双飞凤_4.mp4
-双飞凤_5,http://liyansheng.top/hls/双飞凤_5.mp4
-双飞凤_6,http://liyansheng.top/hls/双飞凤_6.mp4
+东方战场5,https://dow.dowlz10.com/20220826/10048_ed5978f2/东方战场%20第05集.mp4
+东方战场6,https://dow.dowlz10.com/20220826/10049_9c01e627/东方战场%20第06集.mp4
+东方战场7,https://dow.dowlz10.com/20220826/10050_8f97f622/东方战场%20第07集.mp4
+东方战场8,https://dow.dowlz10.com/20220826/10051_643251fe/东方战场%20第08集.mp4
+观音得道_1,http://liyansheng.top/hls/观音得道_1.mp4
+观音得道_2,http://liyansheng.top/hls/观音得道_2.mp4
+观音得道_3,http://liyansheng.top/hls/观音得道_3.mp4
+雪豹1,https://dow.dowlz3.com/20220701/17258_d4bf08c3/雪豹EP01.mp4
+雪豹2,https://dow.dowlz3.com/20220701/17259_934bd7ab/雪豹EP02.mp4

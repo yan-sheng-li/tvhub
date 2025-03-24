@@ -35,3 +35,10 @@ CCTV1,http://111.160.17.2:59901/tsfile/live/0001_1.m3u8
 14,https://dow.dowlz19.com/20241121/29464_999f07b1/故乡的泥土14.mp4
 ```
 
+## 待选
+```text
+光荣与梦想http://xiepp.com/ju/69207
+我的团长，我的团http://xiepp.com/ju/4145
+新版亮剑http://xiepp.com/ju/3080
+大决战 http://xiepp.com/ju/70090
+```
