@@ -1,8 +1,10 @@
 自定义节目,#genre#
-换子不成龙_1,http://liyansheng.top/hls/换子不成龙/1.mp4
-换子不成龙_2,http://liyansheng.top/hls/换子不成龙/2.mp4
-东方战场14,https://dow.dowlz10.com/20220826/10057_eac9b303/东方战场%20第14集.mp4
-东方战场15,https://dow.dowlz10.com/20220826/10058_9f36ead9/东方战场%20第15集.mp4
+换子不成龙_3,http://liyansheng.top/hls/换子不成龙/3.mp4
+换子不成龙_4,http://liyansheng.top/hls/换子不成龙/4.mp4
+18,https://dow.dowlz10.com/20220826/10061_6526a77a/东方战场%20第18集.mp4
+19,https://dow.dowlz10.com/20220826/10060_be5853f1/东方战场%20第17集.mp4
+20,https://dow.dowlz10.com/20220826/10059_d83ee0c0/东方战场%20第16集.mp4
+21,https://dow.dowlz10.com/20220826/10058_9f36ead9/东方战场%20第15集.mp4
 永不磨灭的番号1,https://dow.dowlz12.com/20230311/12308_061c1075/永不磨灭的番号EP04.mp4
 永不磨灭的番号2,https://dow.dowlz12.com/20230311/12307_b45025a0/永不磨灭的番号EP03.mp4
 永不磨灭的番号3,https://dow.dowlz12.com/20230311/12304_9ce2124a/永不磨灭的番号EP02.mp4
