@@ -1,4 +1,5 @@
 自定义节目,#genre#
+CCTV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
 东方战场_55,https://dow.dowlz10.com/20220826/10098_fdbfaeac/东方战场%20第55集.mp4
 刀影_01,https://dow.dowlz12.com/20230201/8518_69fb5f5b/刀影EP01.mp4
 刀影_02,https://dow.dowlz12.com/20230201/8519_cd5f44dc/刀影EP02.mp4
