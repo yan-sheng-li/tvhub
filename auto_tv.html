@@ -1,65 +1,100 @@
 <!DOCTYPE html>
 <html lang="zh">
+
 <head>
-  <meta charset="UTF-8">
-  <title>节目自动排片</title>
-  <style>
-    body { font-family: Arial, sans-serif; padding: 20px; }
-    textarea { width: 100%; height: 200px; margin-top: 10px; font-family: monospace; }
-    button { padding: 10px 20px; margin-top: 10px; }
-    input { width: 60px; }
-  </style>
-</head>
-<body>
-  <h2>节目自动排片生成器</h2>
-
-  <label for="input">粘贴节目列表（tv.txt 内容）:</label>
-  <textarea id="input" placeholder="粘贴你的tv.txt内容"></textarea>
-
-  <div style="margin-top:10px;">
-    起始集数：
-    <input type="number" id="start" value="1" min="1" />
-    排片集数：
-    <input type="number" id="count" value="2" min="1" />
-    <button onclick="generateList()">生成排片</button>
-  </div>
-
-  <h3>自定义列表输出：</h3>
-  <textarea id="output" readonly></textarea>
-
-  <script>
-    function generateList() {
-      const raw = document.getElementById("input").value.trim();
-      const lines = raw.split("\n").map(l => l.trim()).filter(Boolean);
-
-      const start = parseInt(document.getElementById("start").value);
-      const count = parseInt(document.getElementById("count").value);
-      const end = start + count - 1;
-
-      let result = ["自定义列表,#genre#"];
-      let currentTitle = "";
-      let buffer = [];
-
-      for (let line of lines) {
-        if (line.endsWith(",#genre#")) {
-          // 输出上一个节目的集数（哪怕不足 count）
-          if (currentTitle && buffer.length >= start - 1) {
-            result.push(...buffer.slice(start - 1, end));
-          }
-          buffer = [];
-          currentTitle = line.replace(",#genre#", "");
-        } else if (line.startsWith(currentTitle)) {
-          buffer.push(line);
+    <meta charset="UTF-8" />
+    <title>节目自动排片</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
         }
-      }
 
-      // 处理最后一个节目
-      if (currentTitle && buffer.length >= start - 1) {
-        result.push(...buffer.slice(start - 1, end));
-      }
+        textarea {
+            width: 100%;
+            height: 200px;
+            margin-top: 10px;
+            font-family: monospace;
+        }
 
-      document.getElementById("output").value = result.join("\n");
-    }
-  </script>
+        button {
+            padding: 10px 20px;
+            margin-top: 10px;
+        }
+
+        input {
+            width: 60px;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>节目自动排片生成器</h2>
+    <label for="input">粘贴节目列表（tv.txt 内容）:</label>
+    <textarea id="input" placeholder="粘贴你的tv.txt内容"></textarea>
+
+    <div style="margin-top:10px;">
+        每天播几集：<input type="number" id="perDay" value="3" min="1" />
+        排片天数：<input type="number" id="days" value="7" min="1" />
+        <button onclick="generateSchedule()">生成排片计划</button>
+    </div>
+
+    <h3>自动排片输出：</h3>
+    <textarea id="output" readonly></textarea>
+
+    <script>
+        function generateSchedule() {
+            const raw = document.getElementById("input").value.trim();
+            const lines = raw.split("\n").map(l => l.trim()).filter(Boolean);
+            const perDay = parseInt(document.getElementById("perDay").value);
+            const totalDays = parseInt(document.getElementById("days").value);
+
+            const programMap = {};
+            let currentTitle = "";
+
+            for (let line of lines) {
+                if (line.endsWith(",#genre#")) {
+                    currentTitle = line.replace(",#genre#", "").trim();
+                    programMap[currentTitle] = [];
+                } else if (currentTitle) {
+                    if (line.startsWith(currentTitle)) {
+                        programMap[currentTitle].push(line);
+                    }
+                }
+            }
+
+            const programNames = Object.keys(programMap);
+            const iterMap = {};
+            for (let name of programNames) {
+                iterMap[name] = 0;
+            }
+
+            let schedule = [];
+            let currentProgramIndex = 0;
+
+            for (let d = 1; d <= totalDays; d++) {
+                schedule.push(`第${d}天,#genre#`);
+                let dayCount = 0;
+
+                while (dayCount < perDay && programNames.length > 0) {
+                    const name = programNames[currentProgramIndex % programNames.length];
+                    const episodes = programMap[name];
+                    const index = iterMap[name];
+
+                    if (index < episodes.length) {
+                        schedule.push(episodes[index]);
+                        iterMap[name]++;
+                        dayCount++;
+                    }
+
+                    currentProgramIndex++;
+                }
+                schedule.push(""); // 空行分隔
+            }
+
+            document.getElementById("output").value = schedule.join("\n");
+        }
+    </script>
 </body>
+
 </html>
