@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>节目自动排片</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    textarea { width: 100%; height: 200px; margin-top: 10px; font-family: monospace; }
+    button { padding: 10px 20px; margin-top: 10px; }
+    input { width: 60px; }
+  </style>
+</head>
+<body>
+  <h2>节目自动排片生成器</h2>
+
+  <label for="input">粘贴节目列表（tv.txt 内容）:</label>
+  <textarea id="input" placeholder="粘贴你的tv.txt内容"></textarea>
+
+  <div style="margin-top:10px;">
+    起始集数：
+    <input type="number" id="start" value="1" min="1" />
+    排片集数：
+    <input type="number" id="count" value="2" min="1" />
+    <button onclick="generateList()">生成排片</button>
+  </div>
+
+  <h3>自定义列表输出：</h3>
+  <textarea id="output" readonly></textarea>
+
+  <script>
+    function generateList() {
+      const raw = document.getElementById("input").value.trim();
+      const lines = raw.split("\n").map(l => l.trim()).filter(Boolean);
+
+      const start = parseInt(document.getElementById("start").value);
+      const count = parseInt(document.getElementById("count").value);
+      const end = start + count - 1;
+
+      let result = ["自定义列表,#genre#"];
+      let currentTitle = "";
+      let buffer = [];
+
+      for (let line of lines) {
+        if (line.endsWith(",#genre#")) {
+          // 输出上一个节目的集数（哪怕不足 count）
+          if (currentTitle && buffer.length >= start - 1) {
+            result.push(...buffer.slice(start - 1, end));
+          }
+          buffer = [];
+          currentTitle = line.replace(",#genre#", "");
+        } else if (line.startsWith(currentTitle)) {
+          buffer.push(line);
+        }
+      }
+
+      // 处理最后一个节目
+      if (currentTitle && buffer.length >= start - 1) {
+        result.push(...buffer.slice(start - 1, end));
+      }
+
+      document.getElementById("output").value = result.join("\n");
+    }
+  </script>
+</body>
+</html>
