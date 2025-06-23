@@ -71,6 +71,7 @@
 
             let schedule = [];
             let currentProgramIndex = 0;
+            let transitionCount = 1;
 
             for (let d = 1; d <= totalDays; d++) {
                 schedule.push(`第${d}天,#genre#`);
@@ -82,6 +83,11 @@
                     const index = iterMap[name];
 
                     if (index < episodes.length) {
+                        // 添加转场信息
+                        schedule.push(`转场${transitionCount},http://liyansheng.top/hls/t1.mp4?source=${transitionCount}`);
+                        transitionCount++;
+
+                        // 添加节目内容
                         schedule.push(episodes[index]);
                         iterMap[name]++;
                         dayCount++;
@@ -89,12 +95,14 @@
 
                     currentProgramIndex++;
                 }
+
                 schedule.push(""); // 空行分隔
             }
 
             document.getElementById("output").value = schedule.join("\n");
         }
     </script>
+
 </body>
 
 </html>
