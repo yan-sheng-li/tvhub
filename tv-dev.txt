@@ -1,7 +1,13 @@
 牛歌戏,#genre#
+转场1,http://liyansheng.top/hls/t1.mp4?source=1
 三喜临门1,http://liyansheng.top/hls/三喜临门1.mp4
+转场2,http://liyansheng.top/hls/t1.mp4?source=2
 三喜临门2,http://liyansheng.top/hls/三喜临门2.mp4
+转场3,http://liyansheng.top/hls/t1.mp4?source=3
 天仙配1,http://liyansheng.top/hls/天仙配1.mp4
+转场4,http://liyansheng.top/hls/t1.mp4?source=4
 天仙配2,http://liyansheng.top/hls/天仙配2.mp4
+转场5,http://liyansheng.top/hls/t1.mp4?source=5
 天仙配3,http://liyansheng.top/hls/天仙配3.mp4
+转场6,http://liyansheng.top/hls/t1.mp4?source=6
 天仙配4,http://liyansheng.top/hls/天仙配4.mp4
