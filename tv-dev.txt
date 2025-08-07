@@ -2,26 +2,13 @@
 三娘教子1,http://liyansheng.top/hls/sanniangjiaozi/1.mp4
 三娘教子2,http://liyansheng.top/hls/sanniangjiaozi/2.mp4
 
-第1天,#genre#
-转场1,http://liyansheng.top/hls/t1.mp4?source=1
-战火中的青春_01,https://dow.dowlz12.com/20230424/2049_541002b0/战火中的青春E01.mp4
-转场2,http://liyansheng.top/hls/t1.mp4?source=2
-战火中的青春_02,https://dow.dowlz12.com/20230424/2048_4f715bce/战火中的青春E02.mp4
-转场3,http://liyansheng.top/hls/t1.mp4?source=3
-战火中的青春_03,https://dow.dowlz12.com/20230424/2047_9d6c9f26/战火中的青春E03.mp4
+破晓东方,#genre#
+破晓东方_01,https://dow.dowlz7.com/20221227/19797_10210929/破晓东方E01.mp4
 
-第2天,#genre#
-转场4,http://liyansheng.top/hls/t1.mp4?source=4
-战火中的青春_04,https://dow.dowlz12.com/20230424/2046_98801803/战火中的青春E04.mp4
-转场5,http://liyansheng.top/hls/t1.mp4?source=5
-战火中的青春_05,https://dow.dowlz13.com/20230425/25525_af03c210/战火中的青春E05.mp4
-转场6,http://liyansheng.top/hls/t1.mp4?source=6
-战火中的青春_06,https://dow.dowlz13.com/20230425/25524_d5fd3d8c/战火中的青春E06.mp4
+破晓东方_02,https://dow.dowlz7.com/20221227/19799_316dc45e/破晓东方E02.mp4
 
-第3天,#genre#
-转场7,http://liyansheng.top/hls/t1.mp4?source=7
-战火中的青春_07,https://dow.dowlz13.com/20230426/25620_6d2bbe8f/战火中的青春E07.mp4
-转场8,http://liyansheng.top/hls/t1.mp4?source=8
-战火中的青春_08,https://dow.dowlz13.com/20230426/25619_92903530/战火中的青春E08.mp4
-转场9,http://liyansheng.top/hls/t1.mp4?source=9
-战火中的青春_09,https://dow.dowlz12.com/20230427/2117_6451c008/战火中的青春E09.mp4
+破晓东方_03,https://dow.dowlz7.com/20221227/19800_838ac7cd/破晓东方E03.mp4
+
+破晓东方_04,https://dow.dowlz7.com/20221227/19798_d2edd41d/破晓东方E04.mp4
+
+破晓东方_05,https://dow.dowlz7.com/20221228/19821_5bc5b2f3/破晓东方E05.mp4
