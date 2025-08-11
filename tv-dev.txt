@@ -16,6 +16,9 @@
 转场9,http://liyansheng.top/hls/t1.mp4?source=9
 破晓东方_09,https://dow.dowlz7.com/20221229/19917_9db65736/破晓东方E09.mp4
 
+卧龙太子1,http://liyansheng.top/hls/wolongtaizi/1.mp4
+卧龙太子2,http://liyansheng.top/hls/wolongtaizi/2.mp4
+
 第4天,#genre#
 转场10,http://liyansheng.top/hls/t1.mp4?source=10
 破晓东方_10,https://dow.dowlz7.com/20221229/19916_088ec3a7/破晓东方E10.mp4
