@@ -27,5 +27,11 @@
 西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-
-
+湛江新聞綜合,https://stream1.freetv.fun/52639812f2732eae3ca1282461823d6e0d2877c9f5972cdb9f700e7426ad7ad4.m3u8
+澳視澳門,https://stream1.freetv.fun/14ab57c2f60a541dd8f75219ee88553faf0194f96019a9dd38b46f41e3ada1fc.m3u8
+湖州公共民生,https://stream1.freetv.fun/f658b84f814d96d64f38857771918a6de4eaa2504093e7b661e7f898f44dc97c.m3u8
+湖州文化娛樂,https://stream1.freetv.fun/3fbc06d33a6b0f5276bbc1954d50f0858bacf4cf4ecf53bf98939d8d13f9468e.m3u8
+湖南電視劇,https://stream1.freetv.fun/04681be00a082456d4aa9991265615bd0818f38d2e042c22b8ad47b6e05c615b.ctv
+深圳衛視,https://stream1.freetv.fun/600061eded68fa111d0cbb23f2b90ac07913ef7435e26c59469d7ece873c7599.m3u8
+深圳電視劇,https://stream1.freetv.fun/c5983c658984ffa6d8e6438a351328df0e5b87b4a41e6c7552a06d96569d3cee.m3u8
+清遠新聞綜合,https://stream1.freetv.fun/5fb78af7bbcf0e8e2838cd3ccd6939d6b8ec944166260b43889c29d65df6d150.m3u8
