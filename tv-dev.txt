@@ -1,4 +1,15 @@
 直播,#genre#
+破晓东方_01,https://dow.dowlz7.com/20221227/19797_10210929/破晓东方E01.mp4
+
+破晓东方_02,https://dow.dowlz7.com/20221227/19799_316dc45e/破晓东方E02.mp4
+
+破晓东方_03,https://dow.dowlz7.com/20221227/19800_838ac7cd/破晓东方E03.mp4
+
+破晓东方_04,https://dow.dowlz7.com/20221227/19798_d2edd41d/破晓东方E04.mp4
+
+破晓东方_05,https://dow.dowlz7.com/20221228/19821_5bc5b2f3/破晓东方E05.mp4
+
+破晓东方_06,https://dow.dowlz7.com/20221228/19820_1a0bc5e1/破晓东方E06.mp4
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
