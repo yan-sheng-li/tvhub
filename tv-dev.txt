@@ -75,3 +75,7 @@ cctv13,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 廣東珠江,https://stream1.freetv.fun/cd093c8b92ae68affb34b3b0f147bbdac575b4eee76ac0410e85d2777d808b6e.m3u8
 廣西衛視,https://stream1.freetv.fun/5206e64f138db7c8f7dead5969aeb89c1a5d7ef0fa8d70add327de43d73b43e9.m3u8
 cctv6,http://api.kkitv.itv888.cn:8080/hls/tp9ajk4od5/index.m3u8
+天津衛視,https://stream1.freetv.fun/2f6a1e8978e205359f62bc1bce793316a47a3e8de56bca3b69a320a38dee3dd7.m3u8
+太原新聞綜合,https://stream1.freetv.fun/705258fa70a3910ba12f4a08f343fa0de0f174f6cb77b82a50da38572b9b82f5.m3u8
+安徽經濟生活,https://stream1.freetv.fun/f3dfa1d34a0f8168914de5adf6d9e8bad20eca344cb88dba00a3240067eadf09.m3u8
+无节制消费的元凶1,https://vodcnd08.myqqdd.com/20250901/QSnrln7e/4142kb/hls/index.m3u8
