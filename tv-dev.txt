@@ -79,3 +79,4 @@ cctv6,http://api.kkitv.itv888.cn:8080/hls/tp9ajk4od5/index.m3u8
 太原新聞綜合,https://stream1.freetv.fun/705258fa70a3910ba12f4a08f343fa0de0f174f6cb77b82a50da38572b9b82f5.m3u8
 安徽經濟生活,https://stream1.freetv.fun/f3dfa1d34a0f8168914de5adf6d9e8bad20eca344cb88dba00a3240067eadf09.m3u8
 无节制消费的元凶1,https://vodcnd08.myqqdd.com/20250901/QSnrln7e/4142kb/hls/index.m3u8
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
